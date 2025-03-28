@@ -18,3 +18,4 @@ And finally - I took all the responses from perplexity - fed them back into gpt 
 
 You can see that result at `document.md`
 
+Lmk if you'd like to chat abt any of the technical stuff
